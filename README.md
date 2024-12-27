@@ -1,6 +1,8 @@
 # HighSeasTube_YoutubeClone_Github.io
  HEY I FACED LOTS OF ERROE WHILE CREATE THIS SO HOPE YOU SUPPORT ME
 HighSeasTube
+Disclaimer : This project is made with the help of Tutorial and I add some features and changed its User interface also take help of Ai to solve only error in projects.
+
 Welcome to HighSeasTube, a feature-rich YouTube clone designed to provide users with a smooth video-streaming experience. HighSeasTube is your go-to platform for uploading, sharing, and discovering videos. Built with the latest technologies, it ensures fast, scalable, and user-friendly performance.
 
 Features
